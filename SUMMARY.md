@@ -6,7 +6,8 @@
 * [计算机网络](network/README.md)
   * [test](network/test.md)
 * [操作系统](os.md)
-* [设计模式](design-pattern/README.md)
-  * [观察者模式](design-pattern/guan-cha-zhe-mo-shi.md)
-  * [单例模式](design-pattern/singleton.md)
+* [软件工程](software-engineering/README.md)
+  * [设计模式](software-engineering/design-pattern/README.md)
+    * [观察者模式](software-engineering/design-pattern/guan-cha-zhe-mo-shi.md)
+    * [单例模式](software-engineering/design-pattern/singleton.md)
 
