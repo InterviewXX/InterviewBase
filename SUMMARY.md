@@ -6,4 +6,6 @@
 * [计算机网络](network/README.md)
   * [test](network/test.md)
 * [操作系统](os.md)
+* [设计模式](design-pattern/README.md)
+  * [单例模式](design-pattern/dan-li-mo-shi.md)
 
