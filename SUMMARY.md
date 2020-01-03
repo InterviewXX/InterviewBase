@@ -7,5 +7,6 @@
   * [test](network/test.md)
 * [操作系统](os.md)
 * [设计模式](design-pattern/README.md)
-  * [单例模式](design-pattern/dan-li-mo-shi.md)
+  * [观察者模式](design-pattern/guan-cha-zhe-mo-shi.md)
+  * [单例模式](design-pattern/singleton.md)
 
